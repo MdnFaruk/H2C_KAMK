@@ -1,0 +1,18 @@
+version: "3"
+services:
+  jupyterlab:
+    image: jupyter/scipy-notebook
+    ports:
+      - 8888:8888
+    environment:
+      - JUPYTER_TOKEN=yes
+      - GRANT_SUDO=yes
+      - JUPYTER_ENABLE_LAB=yes    
+    volumes:
+      - vol-jupyter-data:/home/jovyan/work
+    networks:
+      - sensorhub
+networks: 
+  sensorhub:
+volumes:
+  vol-jupyter-data:

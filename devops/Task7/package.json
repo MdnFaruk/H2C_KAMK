@@ -1,0 +1,29 @@
+{
+    "name": "nodejs-server",
+    "version": "0.0.1",
+    "description": "Node.js REST API for weather station",
+    "main": "server.js",
+    "scripts": {
+        "test": "mocha --exit"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "nodejs",
+        "sensors",
+        "rest",
+        "api"
+    ],
+    "author": "Etunimi Sukunimi <etunimisukunimi@kamk.fi>",
+    "license": "MIT",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "chai-http": "^4.3.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "http-server": "^13.0.2",
+        "mocha": "^6.2.2"
+    }
+}

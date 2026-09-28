@@ -1,0 +1,112 @@
+[
+    {
+        "firstname": "Kaarlo Juho",
+        "lastname": "Ståhlberg",
+        "nickname": "Juho",
+        "born": "1865",
+        "died": "1952",
+        "img": "https://kansallisbiografia.fi/img/kb/0062604.jpg",
+        "career": "1919 - 1925",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/626"
+    },
+    {
+        "firstname": "Lauri Kristian",
+        "lastname": "Relander",
+        "nickname": "Lauri",
+        "born": "1883",
+        "died": "1942",
+        "img": "https://kansallisbiografia.fi/img/kb/0062804.jpg",
+        "career": "1925 - 1931",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/628"
+    },
+    {
+        "firstname": "Pehr Evind",
+        "lastname": "Svinhufvud",
+        "nickname": "Pehr",
+        "born": "1861",
+        "died": "1944",
+        "img": "https://kansallisbiografia.fi/img/kb/0050104.jpg",
+        "career": "1931 - 1937",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/501"
+    },
+    {
+        "firstname": "Kyösti",
+        "lastname": "Kallio",
+        "nickname": "Kyösti",
+        "born": "1889",
+        "died": "1956",
+        "img": "https://kansallisbiografia.fi/img/kb/0062905.jpg",
+        "career": "1937 - 1940",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/629"
+    },
+    {
+        "firstname": "Risto Heikki",
+        "lastname": "Ryti",
+        "nickname": "Risto",
+        "born": "1889",
+        "died": "1956",
+        "img": "https://kansallisbiografia.fi/img/kb/0063004.jpg",
+        "career": "1940 - 1944",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/630"
+    },
+    {
+        "firstname": "Carl Gustaf Emil",
+        "lastname": "Mannerheim",
+        "nickname": "Carl",
+        "born": "1867",
+        "died": "1951",
+        "img": "https://kansallisbiografia.fi/img/kb/0062508.jpg",
+        "career": "1944 - 1946",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/625"
+    },
+    {
+        "firstname": "Juho Kusti",
+        "lastname": "Paasikivi",
+        "nickname": "Juho",
+        "born": "1870",
+        "died": "1956",
+        "img": "https://kansallisbiografia.fi/img/kb/0063107.jpg",
+        "career": "1946 - 1956",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/631"
+    },
+    {
+        "firstname": "Urho Kaleva",
+        "lastname": "Kekkonen",
+        "nickname": "Urho",
+        "born": "1900",
+        "died": "1986",
+        "img": "https://kansallisbiografia.fi/img/kb/0063202.jpg",
+        "career": "1956 - 1986",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/632"
+    },
+    {
+        "firstname": "Mauno Henrik",
+        "lastname": "Koivisto",
+        "nickname": "Mauno",
+        "born": "1923",
+        "died": "2017",
+        "img": "https://kansallisbiografia.fi/img/kb/0063302.jpg",
+        "career": "1982 - 1994",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/633"
+    },
+    {
+        "firstname": "Martti Oiva Kalevi",
+        "lastname": "Ahtisaari",
+        "nickname": "Martti",
+        "born": "1937",
+        "died": "0",
+        "img": "https://kansallisbiografia.fi/img/kb/0063401.jpg",
+        "career": "1994 - 2000",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/634"
+    },
+    {
+        "firstname": "Tarja Kaarina",
+        "lastname": "Halonen",
+        "nickname": "Tarja",
+        "born": "1943",
+        "died": "0",
+        "img": "https://kansallisbiografia.fi/img/kb/0406401.jpg",
+        "career": "2000 - 2012",
+        "biography": "https://kansallisbiografia.fi/kansallisbiografia/henkilo/4064"
+    }
+]

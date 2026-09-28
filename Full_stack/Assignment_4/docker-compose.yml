@@ -1,0 +1,34 @@
+version: "2"
+services:
+
+# The mongodb database container
+  mongodb-server: 
+    image: mongo:3.6
+    container_name: mongodb-server
+    ports:
+      - 27017:27017
+    networks: 
+      - presidents-network
+
+# The server application container
+  server-app:
+    build: ./app
+    container_name: presidents-server
+    depends_on: 
+      - mongodb-server
+    ports: 
+      - 8080:8080 # needed only if connecting from host computer
+    networks: 
+      - presidents-network
+
+# The utilities container to populate the database
+  utilities:
+    build: ./utilities
+    container_name: presidents-utilities
+    depends_on: 
+      - server-app
+    networks: 
+      - presidents-network
+
+networks: 
+  presidents-network:

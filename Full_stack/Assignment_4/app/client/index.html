@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <!-- Include the client software -->
+  <script src="./client.js"></script>
+  <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <title>Full Stack App Assignment</title>
+</head>
+<body onLoad="loadApp()">
+  <div id="data_form">
+    <!-- This is the "static" UI for requesting presidents -->
+    <form>
+      <fieldset>
+          <legend>Load the presidents</legend>
+          <!-- TODO: Check the difference between <button> ja <input type="submit"> elements -->
+          <button id="load">Load presidents</button>
+      </fieldset>
+    </form>
+  </div>
+  <div id="presidents">
+    <!-- Presidents will be loaded here -->
+  </div>
+</body>
+</html>
